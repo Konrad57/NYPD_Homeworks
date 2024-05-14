@@ -1,0 +1,3 @@
+On the profile call graph we can clearly see that matrix_multiply function takes most of the computing time.
+It is due to data size. Additionally, the script can take approximately 30-40s to run. So the only thing that influence the speed of
+computation is the size of the data with this simple matrix multiplying program.
